@@ -1,0 +1,147 @@
+.main_body{
+    background-color: rgb(241, 242, 236);
+}
+h3.home{
+    margin-top: 4px;
+    text-align: center;
+    color: rgb(242, 255, 204);
+    background-color: rgb(45, 134, 45);
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+}
+h3.home:after {
+    border-bottom: 15px solid rgb(151, 143, 80);
+    content: " ";
+    display: block;
+  margin-top: 10px;
+    width: 100%;
+   
+  }
+  h3.home:before {
+    border-top: 15px solid rgb(36, 22, 75);
+    content: " ";
+    display: block;
+  margin-bottom: 10px;
+    width: 100%;
+  }
+img.home{
+    height:200px;
+    width: 250px;
+}
+.name{
+    color: white;
+    font-weight: bold;
+    margin-top:5px;
+    background-color:  rgb(45, 134, 45);
+    padding-top:4px;
+    padding-bottom:4px;
+    padding-right:8px;
+    padding-left:10px;
+
+
+    
+     width: 250px;
+}
+p{
+    text-align: justify;
+}
+  @media only screen and (max-width: 991px) {
+    .main_body{
+        padding-top: 10px;
+        background-color: rgb(241, 242, 236);
+    }
+  }
+
+  @media only screen and (max-width: 576px) {
+    img{
+        height:200px;
+        width: 100%;
+    }
+    .name{
+        color: white;
+        font-weight: bold;
+        margin-top:5px;
+        background-color:  rgb(45, 134, 45);
+        padding-top:4px;
+        padding-bottom:4px;
+        padding-right:8px;
+        padding-left:10px;
+
+         width: 100%;
+    }
+  }
+
+.news{
+    list-style-image: url(news_icon.png);
+}
+h2{
+  font-family: Cursive;
+  padding-top: 40px;
+  text-align: center;
+}
+h2::after{
+  border-bottom: 8px solid black;
+  content: " ";
+  display: block;
+  margin-top: 0px;
+  width: 100%;
+}
+ul.news::after{
+  border-bottom: 2px solid black;
+  content: " ";
+  display: block;
+  margin-top: 10px;
+  width: 100%;
+}
+.slider::after{
+  border-bottom: 5px solid rgb(102, 204, 102);
+  content: " ";
+  display: block;
+  margin-top: 10px;
+  width: 100%;
+}
+
+h7{
+  font-family: Cursive;
+  font-weight: bold;
+  text-align: center;
+}
+.vl {
+  border-left: 3px solid green;
+  height: auto;
+}
+li.media_talks{
+  color:blue;
+  list-style-image: url(right_arrow_icon.png);
+}
+li.media_talks a{
+  font-weight: bold;
+  font-size: 10px;
+}
+.lower_secion::before {
+  border-top: 5px solid rgb(102, 204, 102);
+  content: " ";
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 20px;
+
+  width: 100%;
+}
+h6.home{
+  text-align: center;
+  font-weight: bold;
+}
+
+li.lower_section {
+ list-style-image: url(arrow_next_share_direction_icon.png);
+}
+li.lower_section  a {
+ color: rgb(20, 20, 165);
+ }
+
+ .facebook{
+   font-family: Cursive;
+   color: rgb(51, 104, 156);
+   font-weight: bold;
+ }

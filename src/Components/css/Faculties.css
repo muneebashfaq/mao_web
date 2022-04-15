@@ -1,0 +1,117 @@
+h3.faculties_heading{
+    text-align: center;
+    background-color:rgb(102, 204, 102);
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+ }
+ a.faculties_link{
+     font-weight: bold;
+    color: white;
+     text-decoration-line: none;
+    
+ }
+ div.link1{
+    padding: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(122, 158, 186);
+    border: 2px solid rgb(122, 158, 186);
+ }
+ div.link1:hover{
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(81, 109, 130);
+    border: 2px solid rgb(81, 109, 130);
+ }
+
+ div.link2{
+    padding: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(243, 36, 36);
+    border: 2px solid rgb(243, 36, 36);
+ }
+ div.link2:hover{
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(187, 31, 31);
+    border: 2px solid rgb(187, 31, 31);
+ }
+ div.link3{
+    padding: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(36, 112, 243);
+    border: 2px solid rgb(36, 112, 243);
+ }
+ div.link3:hover{
+     cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(21, 78, 175);
+    border: 2px solid rgb(21, 78, 175);
+ }
+ img.faculties{
+   border-radius: 10px;
+   height: 100px;
+   width: 100px;
+   margin: 0 10px;
+   margin-bottom: 5px;
+   margin-top: 5px;
+  
+}
+
+h4.administration{
+   font-weight: bold;
+   padding-left: 10px;
+
+}
+
+div.sidebar_faculties{
+   background-color: #04AA6D;
+   width: auto;
+   width: 100%;
+}
+@media screen and (max-width: 768px) {
+   img.faculties{
+      border-radius: 10px;
+      height: 150px;
+      width: 150px;
+      margin: 0 10px;
+      border: 2px solid rgb(51, 204, 255);
+      margin-bottom: 5px;
+      margin-top: 5px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+   }
+   h4.faculties{
+      font-weight: bold;
+   
+   text-align: center;
+   }
+   h6.faculties{
+     
+      
+   text-align: center;
+   }
+   
+ }
+ .navbar-custom {
+   background-color: rgb(45, 134, 45);
+ }
+
+a.sidebar_faculties{
+   color: white;
+}
+
+img.back_arrow{
+   height: 55px;
+   width: 55px;
+   cursor: pointer;
+
+}
+

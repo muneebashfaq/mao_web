@@ -1,0 +1,43 @@
+h3.administration_heading{
+    text-align: center;
+    background-color:rgb(102, 204, 102);
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+ }
+ 
+ img.administraion{
+     border-radius: 10px;
+     height: 150px;
+     width: 150px;
+     margin: 0 10px;
+     border: 2px solid rgb(51, 204, 255);
+     margin-bottom: 5px;
+    
+ }
+ h4.administration{
+    font-weight: bold;
+
+ }
+ @media only screen and (max-width: 992px) {
+    img.administraion{
+        border-radius: 10px;
+        height: 150px;
+        width: 150px;
+        margin: 0 10px;
+        border: 2px solid rgb(51, 204, 255);
+        margin-bottom: 5px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    h4.administration{
+        font-weight: bold;
+       text-align: center;
+     }
+     h6.administraion{
+     
+       text-align: center;
+     }
+  }
