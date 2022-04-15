@@ -6,7 +6,7 @@ import add from '../Pictures/News_data/add.jpg'
 
 const Side_news = () => {
     return (<>
-        <h2><NewspaperIcon />MAO NEWS</h2>
+        <h2 className='home'><NewspaperIcon />MAO NEWS</h2>
         <ul className='news'>
             <li className="news"> Admissions Open for BS 5TH Semester (Replacement for M.A / M.Sc) 2021-2022(<a href={add} download>Click Here)</a></li><br/>
             <li className="news"> Schedule Of Admission for Inter Part-1(<a href='../Pictures/principle.jpeg' download>Click Here)</a></li><br/>

@@ -1,7 +1,22 @@
+.notice_main_body{
+ height: 500px;
+}
 h3.notices_heading{
     text-align: center;
     background-color:rgb(102, 204, 102);
     color: white;
     padding: 5px;
     font-weight: bold;
+ }
+
+ ul.notices{
+   list-style-image: url(news_icon.png);
+   font-size: 20px;
+   font-weight: bold;
+   color: rgb(255, 0, 0);
+   
+ }
+
+ a.notices{
+     color: rgb(0, 0, 128);
  }

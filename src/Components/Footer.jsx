@@ -8,7 +8,7 @@ const Footer=()=>{
            <div className='upper_part'> 
            <ul className='footer'>
                <li className='footer'><NavLink to='/society'>Societies</NavLink></li>
-               <li className='footer'><NavLink to='/M.A.O Telephone '>M.A.O Telephone </NavLink></li>
+               <li className='footer'><NavLink to='/contact_us'>M.A.O Telephone </NavLink></li>
                <li className='footer'><NavLink to='/Downloads'>Downloads</NavLink></li>
                <li className='footer'><NavLink to='/M.A.O Emails  '>M.A.O Emails</NavLink></li>
            </ul>
