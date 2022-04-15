@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mao_web/static/css/main.dafc5e93.css",
-    "main.js": "/mao_web/static/js/main.899e589d.js",
+    "main.css": "/mao_web/static/css/main.89739c5e.css",
+    "main.js": "/mao_web/static/js/main.d14c1029.js",
     "static/js/787.8a2a0bbf.chunk.js": "/mao_web/static/js/787.8a2a0bbf.chunk.js",
     "static/media/add.jpg": "/mao_web/static/media/add.e56ef3fca0078ba06abd.jpg",
     "static/media/1st_merit_bs_final.pdf": "/mao_web/static/media/1st_merit_bs_final.bb81aaf92c29f58cb9da.pdf",
@@ -40,12 +40,12 @@
     "static/media/naeem.jpeg": "/mao_web/static/media/naeem.63f9c57c6a94801d69e3.jpeg",
     "static/media/aqdas.jpeg": "/mao_web/static/media/aqdas.cef52896869fe3b151f6.jpeg",
     "index.html": "/mao_web/index.html",
-    "main.dafc5e93.css.map": "/mao_web/static/css/main.dafc5e93.css.map",
-    "main.899e589d.js.map": "/mao_web/static/js/main.899e589d.js.map",
+    "main.89739c5e.css.map": "/mao_web/static/css/main.89739c5e.css.map",
+    "main.d14c1029.js.map": "/mao_web/static/js/main.d14c1029.js.map",
     "787.8a2a0bbf.chunk.js.map": "/mao_web/static/js/787.8a2a0bbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dafc5e93.css",
-    "static/js/main.899e589d.js"
+    "static/css/main.89739c5e.css",
+    "static/js/main.d14c1029.js"
   ]
 }
